@@ -16,6 +16,21 @@ public class fasdfdas {
         super.finalize();
         super.finalize();
         super.finalize();super.finalize();super.finalize();
-
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str); System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str); System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
     }
 }
